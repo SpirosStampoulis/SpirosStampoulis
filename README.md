@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sitepoint.svg" />][website]
+[<img align="left" alt="gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 [<img align="left" alt="facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -42,7 +42,7 @@
 <br />
 
 ---
-
+[gmail]: sstaboulis@gmail.com
 [website]: https://infallible-archimedes-bfa240.netlify.app/
 [twitter]: https://twitter.com/StampoulisS
 [facebook]: https://www.facebook.com/spiros.stampoulis/
