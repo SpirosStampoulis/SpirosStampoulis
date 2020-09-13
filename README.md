@@ -1,8 +1,10 @@
 ### Hi there, I'm Spiros Stampoulis 👋
 
-[![Website](https://img.shields.io/website?label=https://infallible-archimedes-bfa240.netlify.app/&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://infallible-archimedes-bfa240.netlify.app/)
+[![Website](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://infallible-archimedes-bfa240.netlify.app/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/StampoulisS?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FStampoulisS&screen_name=StampoulisS)
-
+<a href="https://discord.gg/AHwf4Z">
+        <img src="https://img.shields.io/discord/308323056592486420?color=7289da&logo=discord&style=for-the-badge"
+            alt="chat on Discord"></a>
 ## I'm a Web Frontend Developer!
 
 - 🔭 I’m currently working on WIS!
@@ -43,8 +45,20 @@
 <br />
 
 ---
-![Spiros's Github Stats](https://github-readme-stats.vercel.app/api?username=spirosstampoulis&show_icons=true&theme=radical)
+![Spiros's Github Stats](https://github-readme-stats.vercel.app/api?username=spirosstampoulis&show_icons=true&theme=dark)
 ---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spirosstampoulis)](https://github.com/spirosstampoulis/github-readme-stats)
+---
+## :sparkling_heart: Support me
+
+if you want to encourage me to continue creating stuff, there are few ways you can do it.
+
+- Giving proper credit when you use github-readme-stats on your readme, linking back to it :D
+- Starring and sharing the project :rocket:
+- [![paypal.me/sstampoulis](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/sstampoulis) - You can make one-time donations via PayPal. I'll probably buy a coffee. :tea:
+
+Thanks! :heart:
+
 [gmail]: sstaboulis@gmail.com
 [website]: https://infallible-archimedes-bfa240.netlify.app/
 [twitter]: https://twitter.com/StampoulisS
