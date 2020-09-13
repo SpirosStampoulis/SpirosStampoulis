@@ -43,6 +43,8 @@
 <br />
 
 ---
+![Spiros's Github Stats](https://github-readme-stats.vercel.app/api?username=spirosstampoulis&show_icons=true&theme=radical)
+---
 [gmail]: sstaboulis@gmail.com
 [website]: https://infallible-archimedes-bfa240.netlify.app/
 [twitter]: https://twitter.com/StampoulisS
