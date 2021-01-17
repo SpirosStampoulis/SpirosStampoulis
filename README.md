@@ -50,12 +50,13 @@
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spirosstampoulis)](https://github.com/spirosstampoulis/github-readme-stats)
 ---
-## :sparkling_heart: Support me
+## :man_astronaut: Show your support
 
 if you want to encourage me to continue creating stuff, there are few ways you can do it.
 
 - Giving proper credit when you use github-readme-stats on your readme, linking back to it :D
-- Starring and sharing the project :rocket:
+- Give a ⭐️ if this project helped you!
+- Sharing the project :rocket:
 - [![paypal.me/sstampoulis](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/sstampoulis) - You can make one-time donations via PayPal. I'll probably buy a coffee. :coffee:
 
 Thanks! :heart:
