@@ -60,7 +60,7 @@ if you want to encourage me to continue creating stuff, there are few ways you c
 
 Thanks! :heart:
 
-[![Github](https://img.shields.io/github/followers/SpirosStampoulis?style=social&label=Follow)][g] ![](https://komarev.com/ghpvc/?username=SpirosStampoulis&style=flat-square&color=lightgrey)
+![Github](https://img.shields.io/github/followers/SpirosStampoulis?style=social&label=Follow) ![](https://komarev.com/ghpvc/?username=SpirosStampoulis&style=flat-square&color=lightgrey)
 
 [gmail]: sstaboulis@gmail.com
 [website]: https://spirosstampoulis.github.io/
