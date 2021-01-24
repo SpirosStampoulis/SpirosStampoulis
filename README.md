@@ -14,14 +14,23 @@
 - 🥅 2021 Goals: Contribute more projects
 - ⚡ Fun fact: I love to scuba diving and play video games
 ---
+
 ### Connect with me:
+
+
+---
+
 
 [<img align="left" alt="gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 [<img align="left" alt="facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+---
+
 
 ### Languages and Tools:
+
+---
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -41,12 +50,20 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 
+
+---
+
+
 ### :memo: GitHub Stats:
+
+---
 
 ![Spiros's Github Stats](https://github-readme-stats.vercel.app/api?username=spirosstampoulis&show_icons=true&theme=dark)
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spirosstampoulis)](https://github.com/spirosstampoulis/github-readme-stats)
 ---
+
+
 ## :man_astronaut: Show your support
 
 if you want to encourage me to continue creating stuff, there are few ways you can do it.
