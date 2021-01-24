@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Contribute more projects
 - ⚡ Fun fact: I love to scuba diving and play video games
----
+
 
 ### Connect with me:
 
@@ -55,8 +55,7 @@
 <br />
 <br />
 
-### :memo: GitHub Stats:
-
+## :memo: GitHub Stats:
 ---
 
 ![Spiros's Github Stats](https://github-readme-stats.vercel.app/api?username=spirosstampoulis&show_icons=true&theme=dark)
