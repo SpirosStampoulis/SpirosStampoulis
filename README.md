@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Contribute more projects
 - ⚡ Fun fact: I love to scuba diving and play video games
-
+---
 ### Connect with me:
 
 [<img align="left" alt="gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
@@ -43,6 +43,8 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
+
+<br />
 
 ## :memo: GitHub Stats:
 
