@@ -4,6 +4,8 @@
 [![Support Server](https://img.shields.io/discord/591914197219016707.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/vpEv3HJ)
 [![Twitter Follow](https://img.shields.io/twitter/follow/StampoulisS?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FStampoulisS&screen_name=StampoulisS)
 [![Slack](https://img.shields.io/badge/slack-Stampoulis-pink.svg?color=4a154b&logo=slack&style=for-the-badge)](https://join.slack.com/t/spirostalk/shared_invite/zt-hctn5hqb-FCblUWTVWSoXqsTPcbTcVA)
+[![Upwork](https://img.shields.io/static/v1?style=for-the-badge&message=Upwork&color=222222&logo=Upwork&logoColor=6FDA44&label=)][upwork]
+
 
 ## I'm a Web Frontend Developer!
 
@@ -68,3 +70,4 @@ Thanks! :heart:
 [twitter]: https://twitter.com/StampoulisS
 [facebook]: https://www.facebook.com/spiros.stampoulis/
 [linkedin]: https://www.linkedin.com/in/spiros-stampoulis/
+[upwork]: https://www.upwork.com/freelancers/~01bcc6ff545e70320b
