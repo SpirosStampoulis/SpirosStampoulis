@@ -44,10 +44,8 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 
-<br />
-<br />
+## :memo: GitHub Stats:
 
----
 ![Spiros's Github Stats](https://github-readme-stats.vercel.app/api?username=spirosstampoulis&show_icons=true&theme=dark)
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spirosstampoulis)](https://github.com/spirosstampoulis/github-readme-stats)
@@ -62,6 +60,8 @@ if you want to encourage me to continue creating stuff, there are few ways you c
 - [![paypal.me/sstampoulis](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/sstampoulis) - You can make one-time donations via PayPal. I'll probably buy a coffee. :coffee:
 
 Thanks! :heart:
+
+<a href="https://www.buymeacoffee.com/stampoulis" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee"></a>
 
 ![Github](https://img.shields.io/github/followers/SpirosStampoulis?style=social&label=Follow) ![](https://komarev.com/ghpvc/?username=SpirosStampoulis&style=flat-square&color=lightgrey)
 
