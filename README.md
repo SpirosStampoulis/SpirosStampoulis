@@ -59,6 +59,9 @@
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spirosstampoulis)](https://github.com/spirosstampoulis/github-readme-stats)
 ---
+<p>
+<img src="https://github-profile-trophy.vercel.app/?username=spirosstampoulis&column=7&margin-w=15&margin-h=15&theme=onedark"/>
+</p>
 
 
 ## :man_astronaut: Show your support
