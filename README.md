@@ -6,6 +6,7 @@
 [![Slack](https://img.shields.io/badge/slack-Stampoulis-pink.svg?color=4a154b&logo=slack&style=for-the-badge)](https://join.slack.com/t/spirostalk/shared_invite/zt-hctn5hqb-FCblUWTVWSoXqsTPcbTcVA)
 [![Upwork](https://img.shields.io/static/v1?style=for-the-badge&message=Upwork&color=222222&logo=Upwork&logoColor=6FDA44&label=)][upwork]
 
+<a href="https://app.daily.dev/Spiros"><img src="https://api.daily.dev/devcards/478f445b2f0e45f9bbfca10ee98141bb.png?r=uok" width="400" alt="Spiros Stampoulis's Dev Card"/></a>
 
 ## I'm a Web Frontend Developer!
 
