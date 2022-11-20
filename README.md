@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on WIS!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute more projects
+- 🥅 2023 Goals: Contribute more projects
 - ⚡ Fun fact: I love to scuba diving and play video games
 
 
